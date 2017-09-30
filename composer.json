@@ -1,5 +1,5 @@
 {
-    "name": "alcaeus/mongo-php-adapter",
+    "name": "towerjt/mongo-php-adapter",
     "type": "library",
     "description": "Adapter to provide ext-mongo interface on top of mongo-php-libary",
     "keywords": ["mongodb", "database"],
